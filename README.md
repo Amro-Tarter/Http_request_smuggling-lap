@@ -40,5 +40,3 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 ## Acknowledgements
 - Special thanks to the various contributors and researchers who have provided valuable insights into HTTP request smuggling.
 
-## Contact
-For any inquiries or questions, you can reach me at: **amro.tarter@example.com**.
